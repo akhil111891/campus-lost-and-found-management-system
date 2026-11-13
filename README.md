@@ -92,7 +92,17 @@ A demonstration account is available for exploring the application. Please conta
 
 ## Project Screenshots
 
-Selected screenshots demonstrate the application's interface, data structure, matching logic, and workflow.
+### Application Interface
+
+![Application](Application.png)
+
+### Database Structure
+
+![Three Core Tables](<Three core Tables.png>)
+
+### User Management
+
+![Users](users.png)
 
 ## Testing
 
